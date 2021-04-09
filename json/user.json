@@ -1,1 +1,4 @@
-UserInfo{name='intellij', description='updated'}
+{
+	"name": "sahara",
+	"description": "this is a test"
+}
